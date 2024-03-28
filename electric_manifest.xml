@@ -5,10 +5,10 @@
             fetch="https://github.com/"
             />
     <!-- hardware -->
-    <project path="vendor/hardware/xiaomi" name="StatiXOS/android_vendor_hardware_xiaomi" revision="statix-udc" remote="github" />
+    <project path="vendor/hardware/xiaomi" name="StatiXOS/android_vendor_hardware_xiaomi" revision="udc" remote="github" />
 
     <!-- vendor (sm8250) -->
-    <project path="vendor/xiaomi/sm8250-common" name="ai94iq/android_vendor_xiaomi_sm8250-common" revision="statix-udc"  remote="github" />
+    <project path="vendor/xiaomi/sm8250-common" name="Alioth-KonaCommon-Trees/android_vendor_xiaomi_sm8250-common" revision="aosp-14-rebase"  remote="github" />
     <project path="vendor/xiaomi/pipa" name="ai94iq/proprietary_vendor_xiaomi_pipa" revision="statix-udc"  remote="github" />
 
     <!-- device (sm8250) -->
