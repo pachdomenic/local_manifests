@@ -8,7 +8,7 @@
     <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" revision="lineage-21" remote="github" />
 
     <!-- vendor -->
-    <project path="vendor/xiaomi/sm8250-common" name="ai94iq/proprietary_vendor_xiaomi_sm8250-common" revision="lineage-20"  remote="github" />
+    <project path="vendor/xiaomi/sm8250-common" name="ai94iq/proprietary_vendor_xiaomi_sm8250-common" revision="lmou"  remote="github" />
     <project path="vendor/xiaomi/pipa" name="ai94iq/proprietary_vendor_xiaomi_pipa" revision="lmou"  remote="github" />
 
     <!-- device -->
@@ -17,6 +17,6 @@
 
 
     <!-- kernel -->
-    <project path="kernel/xiaomi/sm8250" name="ai94iq/android_kernel_xiaomi_sm8250" remote="github" revision="lmou"  clone-depth="1000" />
+    <project path="kernel/xiaomi/sm8250" name="DD3Boh/android_kernel_xiaomi_sm8250" remote="github" revision="lineage-21"  clone-depth="1000" />
 
 </manifest>
